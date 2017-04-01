@@ -1,0 +1,7 @@
+*.settings
+*.project
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.classpath
+.idea/
+.mvn/
