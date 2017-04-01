@@ -1,4 +1,4 @@
-package fi.haagahelia.course.domain;
+package com.hendisantika.react.domain;
 
 import org.springframework.data.repository.CrudRepository;
 

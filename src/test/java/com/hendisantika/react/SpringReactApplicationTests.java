@@ -1,4 +1,4 @@
-package fi.haagahelia.course;
+package com.hendisantika.react;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
