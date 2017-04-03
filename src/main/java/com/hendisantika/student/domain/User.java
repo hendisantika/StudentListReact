@@ -1,4 +1,4 @@
-package fi.haagahelia.course.domain;
+package com.hendisantika.student.domain;
 
 import javax.persistence.*;
 

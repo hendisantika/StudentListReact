@@ -1,4 +1,4 @@
-package fi.haagahelia.course.web;
+package com.hendisantika.student.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.AuthorityUtils;
@@ -7,8 +7,8 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import fi.haagahelia.course.domain.User;
-import fi.haagahelia.course.domain.UserRepository;
+import com.hendisantika.student.domain.User;
+import com.hendisantika.student.domain.UserRepository;
 
 /**
  * This class is used by spring security to authenticate and authorize user

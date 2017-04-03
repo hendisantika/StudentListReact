@@ -1,4 +1,4 @@
-package fi.haagahelia.course;
+package com.hendisantika.student;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
