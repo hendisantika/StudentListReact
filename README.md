@@ -5,11 +5,17 @@ Simple CRUD application with Spring Boot Data REST backend and React.js frontend
 
 Launch by typing: mvnw spring-boot:run
 
-    H2
-    JPA
-    REST
-    React.js
+* H2
+* JPA
+* REST
+* React.js
 
 ##Screenshot##
 
-![Screenshot](http://juhahinkula.github.com/img/springreact.png)
+List Student
+
+![List Student](img/list.png "List Student Page")
+
+Add Student
+
+![Add Student](img/add.png "Add Student Page")
