@@ -15,7 +15,7 @@ Login by using: user/user or admin/admin
     
 ##Screenshot##
 
-![Screenshot](http://juhahinkula.github.com/img/springreactlist.png)
+![Add New Student Page](img/add.png "Add New Student Page")
 
-![Screenshot](http://juhahinkula.github.com/img/springreactmodal.png)
+![List Student Page](img/list.png "List Student Page")
 
