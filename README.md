@@ -10,7 +10,7 @@ Launch by typing: mvnw spring-boot:run
 * REST
 * React.js
 
-##Screenshot##
+## Screenshot ##
 
 List Student
 
@@ -19,3 +19,22 @@ List Student
 Add Student
 
 ![Add Student](img/add.png "Add Student Page")
+=======
+Spring Boot + React frontend
+
+Launch by typing: `mvn clean spring-boot:run`
+
+Login by using: user/user or admin/admin
+
+* H2 database
+* JPA
+* REST
+* React.js
+* React components: react-skylight (for modals), react-s-alert (for toasts)
+    
+##Screenshot##
+
+![Add New Student Page](img/add.png "Add New Student Page")
+
+![List Student Page](img/list.png "List Student Page")
+
